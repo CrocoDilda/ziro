@@ -1,0 +1,1 @@
+Макет вёрстки https://www.figma.com/file/aPiFvooq8hQ6gXf15tOFBS/Find-out-talented-freelancer?type=design&node-id=0-1&mode=design

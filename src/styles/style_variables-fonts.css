@@ -1,0 +1,8 @@
+/*Переменные*/
+body{
+--max-width: 1110px;
+}
+
+
+/*Шрифты*/
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Odibee+Sans&family=Open+Sans&family=Oswald&family=Prompt&display=swap');
